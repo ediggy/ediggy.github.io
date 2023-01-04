@@ -1,0 +1,20 @@
+---
+layout: default
+title: Elizabeth Sloan - Projects
+description: "Elizabeth Sloan's projects include a CAD map application. A front end project called Sloan Web Designs. And a couple more coming soon. I hope I remember to edit this section."
+---
+<!-- TODO: Edit description -->
+<h1 class="center_h1">Welcome to my Portfolio!</h1>
+<div class="project_overview">
+  
+  {% for project in site.projects %}
+  <div>
+    <a href="{{project.permalink}}">
+      <img src="{{project.img-thumbnail}}" alt="{{project.alt-thumbnail}}">
+      <h2> {{ project.title }} </h2>
+      <p>{{ project.time-length }}</p>
+    </a>
+    
+  </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<body class="case-study">
+  <h1>{{page.title}}</h1>
+
+  <h2>Overview</h2>
+  <p>{{page.overview}}</p>
+  <img src="{{page.img-overview}}" alt="{{page.alt-overview}}">
+
+  <h2>Problem</h2>
+  <p>{{page.problem}}</p>
+  <img src="{{page.img-problem}}" alt="{{page.alt-problem}}">
+
+  <h2>Goals</h2>
+  <p>{{page.goals}}</p>
+  <img src="{{page.img-goals}}" alt="{{page.alt-goals}}">
+
+  <h2>Design Process</h2>
+  {{content}}
+
+  <h2>Results</h2>
+  <p>{{page.results}}</p>
+  <img src="{{page.img-results}}" alt="{{page.alt-results}}">
+  {% if page.img-results-2 %}
+  <img src="{{page.img-results-2}}" alt="{{page.alt-results-2}}">
+  {% endif %}
+</body>

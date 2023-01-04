@@ -1,0 +1,17 @@
+<header class="navbar">
+  
+    <a href="/" class="home_link">Elizabeth Sloan</a>
+    <button class="toggle-button"
+    role="button"
+    aria-pressed="false"
+    aria-label="menu toggle">
+    <i class="fa-solid fa-bars"></i>
+    </button>
+    <nav>
+    <ul class="nav_links">
+      {%for item in site.data.menu%}
+        <li><a href="{{item.link}}">{{item.title}}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
