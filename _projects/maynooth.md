@@ -53,7 +53,7 @@ Scroll through the prorotype preview in the box below. <br>
 Click or Tap inside the preview box to go to next screen in prototype.
 
 
-<h2><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FaVpJ75sceSgvF4pY9GRXZo%2FConverted-Prototype%3Fnode-id%3D2%253A15%26scaling%3Dscale-down-width%26page-id%3D0%253A1%26starting-point-node-id%3D2%253A15" allowfullscreen></iframe></h2>
+<h2><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="90%" height="450px" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FaVpJ75sceSgvF4pY9GRXZo%2FConverted-Prototype%3Fnode-id%3D2%253A15%26scaling%3Dscale-down-width%26page-id%3D0%253A1%26starting-point-node-id%3D2%253A15" allowfullscreen></iframe></h2>
 
 This project was originally done in Adobe XD. I transfered it to Figma to be able to share it. I lost some usability from the transfer, but the general idea is still there. 
 
