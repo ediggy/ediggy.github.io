@@ -47,8 +47,10 @@ To solve the users problems, we created a design blog section, as well as a “v
 ### Prototyping and Testing:
 I used UserTesting.com to get feedback for my prototypes and designs. I tested the designs twice. Once for the lo-fi prototype, and once for the fi-fi prototype. I used the feedback gathered to make changes to the design. One example was on the product page, one tester said that they would like to “see some reviews from other people who bought the product”. So the reviews were added to the product page. 
 
-### Links
-<a href="https://www.figma.com/proto/aVpJ75sceSgvF4pY9GRXZo/Converted-Prototype?node-id=2%3A15&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=2%3A15" target="_blank">View Figma Prototype</a>
+### Prototype
+Click or Tap inside the image box to go to next screen in prototype:
+
+<h2><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FaVpJ75sceSgvF4pY9GRXZo%2FConverted-Prototype%3Fnode-id%3D4%253A2%26scaling%3Dscale-down-width%26page-id%3D0%253A1%26starting-point-node-id%3D2%253A15" allowfullscreen></iframe></h2>
 
 This project was originally done in Adobe XD. I transfered it to Figma to be able to share it. I lost some usability from the transfer, but the general idea is still there. 
 
