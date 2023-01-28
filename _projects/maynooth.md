@@ -24,12 +24,12 @@ img-problem: "/assets/images/maynooth/LoFi_Planning.jpg"
 alt-problem: "Low fidelity version of Maynooth's product sections."
 
 img-goals: "/assets/images/maynooth/goals.jpg"
-alt-goals: "Elegance: Our Our code should be easy to read and continue, no matter who the programmer is. Extensibility: Our program should be extensible to meet user’s needs as they grow. Iteration: Each step needs to improve the last, and move us forward to the client’s goals. UX/UI Design: The end user needs to be able to easily achieve their goals without any guidance from the program."
+alt-goals: "UI Design: The design needs to compete with other big furniture brands. The UI has to be elegant and pleasing. Extensibility: Our program should be able to grow as the business's sales increase. Responsive: To reach more users, the site should be accessible on desktop and mobile. UX/UI Design: The user flow should be simple, plesant, and accessible."
 
 img-results: "/assets/images/maynooth/mobile.jpg"
-alt-results: "Image of blue 3D printed bridge."
+alt-results: "Image of the best mobile designs you have ever experienced. Trust me."
 img-results-2: "/assets/images/maynooth/chairs.jpg"
-alt-results-2: "Image of green 3D printed pyramid with pointy tops."
+alt-results-2: "Image of orange and green chairs on a really cool product page."
 ---
 ![](/assets/images/maynooth/moodboard.jpg)
 
