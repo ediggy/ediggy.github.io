@@ -16,7 +16,7 @@ results: "The Avocet Map Application is an extensible, robust, elegantly designe
 img-thumbnail: "/assets/images/mapplication/thumbnail.jpg"
 alt-thumbnail: "Display of the welcome and main screens of the Avocet Map Application."
 
-img-overview: "/assets/images/mapplication/filal_main.jpg"
+img-overview: "/assets/images/mapplication/final_main.jpg"
 alt-overview: "Image of final main editor screen of the CAD map application."
 
 img-problem: "/assets/images/mapplication/LoFi_Planning.jpg"
